@@ -1,0 +1,20 @@
+{
+  "name": "conjectura_goldbach",
+  "version": "1.0.0",
+  "description": "Conjectura de Goldbach +  Teste de Primalidade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.5.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.17.0"
+  }
+}
